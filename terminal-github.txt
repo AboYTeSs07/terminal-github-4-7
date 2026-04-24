@@ -1,1 +1,2 @@
 Terminal git a GitHub
+GitHub a Terminal git
