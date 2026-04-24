@@ -3,3 +3,4 @@ GitHub a Terminal git
 Terminal git a GitHub 1.0
 GitHub a Terminal git 1.0
 Github a Terminal 1.1
+Terminal git a GitHub 1.1
